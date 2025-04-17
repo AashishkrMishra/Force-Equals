@@ -2,7 +2,7 @@
 
 This repository contains the solution for the **Force Equals Hiring Challenge** for a Full Stack Development Internship. The challenge is divided into two parts:
 
-1. **Target Account Matching API (Backend)**
+1. **Target Account Matching API (RESTAPI)**
 2. **LinkedIn Profile Enhancer Widget (Frontend – Chrome Extension)**
 
 ---
